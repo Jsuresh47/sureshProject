@@ -1,5 +1,5 @@
 <html>
 <body>
-<h2>Good Mornining</h2>
+<h2>Good Morning</h2>
 </body>
 </html>
